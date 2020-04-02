@@ -107,9 +107,9 @@ venv.bak/
 .mypy_cache/
 
 # ignore data files
-*.json
-*.csv
-*.pkl
+# *.json
+# *.csv
+# *.pkl
 
 #ignore archive folder
 data/archive/

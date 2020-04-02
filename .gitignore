@@ -112,4 +112,4 @@ venv.bak/
 *.pkl
 
 #ignore archive folder
-data/archive
+data/archive/

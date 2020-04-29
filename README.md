@@ -17,9 +17,9 @@ For this project, I defined the target cohort as follows: players whose last act
 
 For reference, here's a list of relevant files and links:
 
-   * [Capstone Notebook](https://github.com/utaveras/Capstone_Project/Capstone_NN_SalaryPredictionModel_UT.ipynb): includes all related data modeling code as well as the final model.
-   * [Dashboard Notebook](https://github.com/utaveras/Capstone_Project/Capstone_Dashboard_UT.ipynb): includes  dashboard & visualization code used for exploring the results.
-   * [Data Scrape & Wrangling Notebook](https://github.com/utaveras/Capstone_Project/Capstone_DataScrapeWrangling_UT.ipynb): includes the code used for sourcing and prepping the data.
+   * [Capstone Notebook](https://github.com/utaveras/Capstone_Project/blob/master/Capstone_NN_SalaryPredictionModel_UT.ipynb): includes all related data modeling code as well as the final model.
+   * [Dashboard Notebook](https://github.com/utaveras/Capstone_Project/blob/master/Capstone_Dashboard_UT.ipynb): includes  dashboard & visualization code used for exploring the results.
+   * [Data Scrape & Wrangling Notebook](https://github.com/utaveras/Capstone_Project/blob/master/Capstone_DataScrapeWrangling_UT.py): includes the code used for sourcing and prepping the data.
    * [Glossary of NBA Stats](https://www.basketball-reference.com/about/glossary.html): definitions for attributes used as features in the final model.
 
 
